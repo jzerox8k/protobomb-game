@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aee561d7cde58604f86ee80f93020b1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cldr: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - wallCollider: {instanceID: 0}
+  - collisionTrigger: {instanceID: 0}
+  - movePoint: {instanceID: 0}
+  - explosion: {fileID: 8790319324211124388, guid: 1a588d261cd9614419f9d51c4efb1184, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b91b87a79edfbc449d99578e9802f9f, type: 3}
+  m_Name: Fuel Barrel
+  m_EditorClassIdentifier: 
+  tileBases:
+  - {fileID: 11400000, guid: 74252674b20fc8c45911d7852c862d6e, type: 2}
+  isDestructible: 1
+  isExplosive: 1
